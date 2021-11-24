@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chat-life-circle/static/css/main.518ce94c.chunk.css",
+    "main.js": "/chat-life-circle/static/js/main.87e0c048.chunk.js",
+    "main.js.map": "/chat-life-circle/static/js/main.87e0c048.chunk.js.map",
+    "runtime-main.js": "/chat-life-circle/static/js/runtime-main.7b0783c7.js",
+    "runtime-main.js.map": "/chat-life-circle/static/js/runtime-main.7b0783c7.js.map",
+    "static/js/2.f6e46193.chunk.js": "/chat-life-circle/static/js/2.f6e46193.chunk.js",
+    "static/js/2.f6e46193.chunk.js.map": "/chat-life-circle/static/js/2.f6e46193.chunk.js.map",
+    "index.html": "/chat-life-circle/index.html",
+    "static/css/main.518ce94c.chunk.css.map": "/chat-life-circle/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.f6e46193.chunk.js.LICENSE.txt": "/chat-life-circle/static/js/2.f6e46193.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b0783c7.js",
+    "static/js/2.f6e46193.chunk.js",
+    "static/css/main.518ce94c.chunk.css",
+    "static/js/main.87e0c048.chunk.js"
+  ]
+}
