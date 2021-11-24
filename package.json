@@ -1,0 +1,21 @@
+{
+  "name": "chat-life-circle",
+  "homepage": "https://alexplus77.github.io/chat-life-circle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "test": "echo \\\"Error: no frontend specified\\\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
